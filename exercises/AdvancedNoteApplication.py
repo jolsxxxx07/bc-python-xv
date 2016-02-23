@@ -1,7 +1,7 @@
 from __future__ import print_function
 from colorama import init, Fore, Back, Style
-# A simple command line interface that request input from uses to create,
-#read, update and delete a note instance..
+''' A simple command line interface that request input from uses to create,
+#read, update and delete a note instance..'''
 init()
 class AdvancedNoteApplication(object):
 
